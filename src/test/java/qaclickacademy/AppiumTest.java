@@ -23,8 +23,11 @@ public class AppiumTest {
 	{
 		System.out.println("IOSApps");	
 		
-		System.out.println("IOSApps");	
-		System.out.println("IOSApps");	
+		//remove code
+		//add new code
+		System.out.println("Android App");
+		System.out.println("Web appilction ");
+		System.out.println("Create a new App");
 		
 		
 	}
