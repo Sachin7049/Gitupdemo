@@ -28,6 +28,11 @@ public class SeleniumTest {
 	{
 		System.out.println("elementfdsUi");	
 	}
+
+	@Test
+	public void elements3(){
+		System.out.println("element fetch");
+	}
 	
 	
 }
