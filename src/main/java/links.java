@@ -6,6 +6,6 @@ public class links {
     @Test
     public void links(){
         WebDriver driver =new ChromeDriver();
-        driver.get("https://preprod-transient.rev-pass.com/SH125");
+       
     }
 }
